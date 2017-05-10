@@ -1,0 +1,40 @@
+/*
+The following customizations can only be done using CSS.
+*/
+
+/* Exercise title when displaying introduction/completion message */
+.ui-dialog-title {
+    font-size: 18px
+}
+
+/* Next button when displaying introduction/completion message */
+.ui-button-text {
+    font-size: 18px
+}
+
+/* Done button (for tasks) */
+#done {
+    font-size: 18px
+}
+
+/*
+The following customizations can be done globally using CSS or
+individually within the appropriate text editor/section in markdown.
+*/
+
+/* Exercise introduction/completion message body */
+#modalContent {
+    font-size: 18px
+}
+
+
+/* Task title that appears above the knowledge, etc. buttons */
+#taskTitle {
+    font-size: 18px
+}
+
+/* Task text that appears at the bottom of the window */
+#taskText {
+    color: yellow;
+    font-size: 18px
+}
